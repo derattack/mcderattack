@@ -25,7 +25,18 @@
     "favicon": false,
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "Nous utilisons des cookies pour vous offrir la meilleure expérience ",
+      "textButton": "OK"
+    },
     "versionFirst": "3.11.1",
     "uniqCompNum": 34,
     "versionPublish": "5.3.2",
@@ -34,7 +45,7 @@
     "siteFonts": [],
     "imageResize": true,
     "chatbutton": {},
-    "mbrsiteDomain": "gizeqbvvlc",
+    "mbrsiteDomain": "bltyj931tp",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -43,21 +54,22 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": false,
-      "text": "By continuing you agree to our Terms of Service and Privacy Policy"
+      "text": "En continuant, vous acceptez nos conditions d'utilisation et notre politique de confidentialité"
     },
     "pwa-switcher": false,
-    "witsec-white-label": false,
+    "witsec-white-label": true,
     "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": " maisonetconception",
+        "title": " maison et conception",
         "meta_descr": "Plombiers Entreprise de Rénovation paris\nArtisans Plombier serrurier vitrier électricien ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1358.png"
       },
       "components": [
         {
