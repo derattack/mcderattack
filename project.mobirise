@@ -873,7 +873,7 @@
           "_name": "footer1",
           "_anchor": "footer1-m",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
