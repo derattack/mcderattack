@@ -353,15 +353,14 @@
               "name": "upload",
               "family": "MobiriseIcons",
               "active": true,
-              "link": " ",
+              "link": "mailto:maisonetconception75@gmail.com",
               "size": 0,
-              "color": "#2969b0",
-              "newWindow": false
+              "color": "#2969b0"
             }
           },
           "title1": "Fuite d’eau",
           "subtitle1": "Les fuites d’eau sont une source de problèmes récurrent dans le système de plomberie d’une habitation d’un bureau…",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">La fuite d’eau est un véritable problème pour tout lieu d’habitation, car cela peut engendrer différents autres problèmes dans votre installation de plomberie.</span><br>Professionnel de plomberie avec des matériels de pointes et formés à toutes situations pour diagnostiquer et trouver d’où peut provenir une fuite d’eau ou de gaz. Nous sommes en mesure d’identifier en urgence toutes les fuites d’une habitation, afin d’éviter que la fuite cause plus de dégâts.<br>",
+          "caption1": "<b><span style=\"font-size: 1rem; line-height: 1.5;\">La fuite d’eau est un véritable problème pour tout lieu d’habitation, car cela peut engendrer différents autres problèmes dans votre installation de plomberie.</span><br>Professionnel de plomberie avec des matériels de pointes et formés à toutes situations pour diagnostiquer et trouver d’où peut provenir une fuite d’eau ou de gaz. </b><br><b>Nous sommes en mesure d’identifier en urgence toutes les fuites d’une habitation, afin d’éviter que la fuite cause plus de dégâts.</b><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -370,7 +369,7 @@
               "name": "like",
               "family": "MobiriseIcons",
               "active": true,
-              "link": " ",
+              "link": "index.html#form1-5",
               "size": "",
               "color": "#ffffff",
               "newWindow": false
@@ -378,7 +377,7 @@
           },
           "title2": "Répartion Plomberie",
           "subtitle2": "&nbsp;La plomberie de votre habitation est un système très complexe qui nécessite un entretien régulier pour un fonctionnement optimal.",
-          "caption2": "<br>Votre évier est bouché, vous avez constaté des odeurs inhabituelles dans vos sanitaires, vos canalisations sont bouchées, vous avez une fuite d'eau... Il est grand temps d'envisager de contacter un professionnel de la plomberie pour vous venir en aide et enfin retrouver la sérénité dans votre habitation.<br>C’est pourquoi la meilleure solution reste d’appeler nos services en cas de problème.<br>",
+          "caption2": "<b>Votre évier est bouché, vous avez constaté des odeurs inhabituelles dans vos sanitaires, vos canalisations sont bouchées, vous avez une fuite d'eau... </b><br><br><b>Il est grand temps d'envisager de contacter un professionnel de la plomberie pour vous venir en aide et enfin retrouver la sérénité dans votre habitation.<br>C’est pourquoi la meilleure solution reste d’appeler nos services en cas de problème.</b><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -387,15 +386,14 @@
               "name": "home",
               "family": "MobiriseIcons",
               "active": true,
-              "link": " ",
+              "link": "mailto:maisonetconception75@gmail.com",
               "size": 0,
-              "color": "#d14841",
-              "newWindow": false
+              "color": "#d14841"
             }
           },
           "title3": "Particuier ou Entreprise &nbsp;",
           "subtitle3": "Voici une liste non exhaustive des réparations que nous prenons en charge",
-          "caption3": "<br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Réparation fuite eau, réparation gaz, fuite encastrée, ballon, chauffe eau, robinetterie, WC, broyeur, lavabo, évier, baignoire, dégorgement domestique, dégorgement colonne, vidage fosse septique, assainissement, détartrage, dépannage plomberie, dépanneur chauffe-eau, débouchage, curage conduite, évacuation entartrée, remplacement joint, remplacement robinet.</span><br>",
+          "caption3": "<br><span style=\"font-size: 1rem; line-height: 1.5;\"><b>Réparation fuite eau, réparation gaz, fuite encastrée, ballon, chauffe eau, robinetterie, WC, broyeur, lavabo, évier, baignoire, dégorgement domestique, dégorgement colonne, vidage fosse septique, assainissement, détartrage, dépannage plomberie, dépanneur chauffe-eau, débouchage, curage conduite, évacuation entartrée, remplacement joint, remplacement robinet.</b></span><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -779,7 +777,7 @@
           "title": "CONTACT &nbsp;",
           "subtitle": "<p><b>Vous avez un projet, une réparation appelez nous ou écrivez nous</b></p>",
           "form": {
-            "action": "madebygideon@gmail.com",
+            "action": "maisonetconception75@gmail.com",
             "alerts": {
               "success": "merci"
             },
