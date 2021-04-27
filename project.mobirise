@@ -297,8 +297,8 @@
           "_anchor": "header3-7",
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "title": "&nbsp;Dépannage en Urgence",
@@ -459,8 +459,8 @@
           "_anchor": "header3-b",
           "_params": {
             "showMeta": true,
-            "paddingTop": "4",
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "title": "Nous sommes \"Agrées Assurances\"",
@@ -550,8 +550,8 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": "46",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -705,7 +705,7 @@
             "showName": true,
             "showBio": true,
             "count": 3,
-            "paddingTop": 3,
+            "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -739,7 +739,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "DES PRIX CLAIRS ET SANS SURPRISE",
+          "title": "\"DES PRIX CLAIRS ET SANS SURPRISE\"",
           "meta": "<b>Nous vous établissons un devis, nous vous laissons les pièces remplacées</b>",
           "_tags": [
             "Theme"
@@ -765,8 +765,8 @@
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -843,12 +843,15 @@
             },
             "P": {
               "color": "#c0a375"
+            },
+            "STRONG": {
+              "font-size": "22px"
             }
           },
           "_anchor": "contacts2-6",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -863,7 +866,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><strong>Adresse</strong><br>Siege social<br> 44 rue Rodier <br><span style=\"font-size: 0.875rem; line-height: 1.5;\">75009 Paris</span><br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:atelierartisans75019@gmail.com\" class=\"text-primary\">maisonetconception75@gmail.com</a><a href=\"mailto: quentinplombier@gmail.com\" target=\"_blank\"></a><a href=\"mailto: contact@mariobat.com\" target=\"_blank\"></a><br>Téléphone:<a href=\"tel:+33140402887\" target=\"_blank\">&nbsp;</a><a href=\"tel:+33755549189\" class=\"text-primary\">+33755549189</a><br>&nbsp;<br><br>Horaires 24 heures sur 24 &nbsp;<br>7 jours sur 7</p>",
+          "text1": "<p><strong>Adresse</strong><br>Siege social<br> 44 rue Rodier <br><span style=\"font-size: 0.875rem; line-height: 1.5;\">75009 Paris</span><br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:atelierartisans75019@gmail.com\" class=\"text-primary\">maisonetconception75@gmail.com</a><a href=\"mailto: quentinplombier@gmail.com\" target=\"_blank\"></a><a href=\"mailto: contact@mariobat.com\" target=\"_blank\"></a><br>Téléphone:<a href=\"tel:+33140402887\" target=\"_blank\">&nbsp;</a><a href=\"tel:+33755549189\" class=\"text-primary\">+33755549189</a><br>&nbsp;</p><br><p>Horaires 24 heures sur 24 &nbsp;<br>7 jours sur 7</p>",
           "text2": "<strong>Liens Utiles</strong><ul><li><a href=\"mailto:madebygideon@gmail.com\" class=\"text-primary\">design Made By Gideon</a><a href=\"mailto:guchik178@gmail.com\" target=\"_blank\"></a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"tel+33183806099\" target=\"_blank\" class=\"text-primary\">demandes urgentes</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://maisonetconception.com/\" target=\"_blank\" class=\"text-primary\">foire aux questions</a></li></ul>"
         },
         {
