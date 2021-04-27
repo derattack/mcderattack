@@ -524,16 +524,22 @@ section.form .container {
   font-size: 46px;
 }
 #features4-2 .card-subtitle {
-  color: #bcbcbc;
+  color: #2b0680;
   font-size: 19px;
 }
 #features4-2 .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
+  background-color: #fac51c;
+  border-color: #fac51c;
+}
+#features4-2 P {
+  color: #b8312f;
 }
 #header3-b .mbr-section-title,
 #header3-b .mbr-section-subtitle {
   text-align: center;
+}
+#header3-b .mbr-section-subtitle {
+  color: #b8312f;
 }
 #content6-l H2 {
   text-align: left;
@@ -541,16 +547,37 @@ section.form .container {
 #content6-l .lead H2 {
   text-align: left;
 }
+#content6-l .lead {
+  color: #000000;
+}
+#testimonials2-n .mbr-section-subtitle {
+  color: #b8312f;
+}
 #header3-s .mbr-section-title,
 #header3-s .mbr-section-subtitle {
   text-align: center;
 }
+#header3-s .mbr-section-subtitle {
+  color: #b8312f;
+}
 #form1-5 .form-control-label {
   color: #232323;
+}
+#form1-5 .mbr-section-subtitle {
+  color: #b8312f;
 }
 #contacts2-6 UL {
   color: #c0a375;
 }
 #contacts2-6 P {
   color: #c0a375;
+}
+.cid-sv8fPSwbvh {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/mbr-1920x1358.png");
+}
+.cid-sv8fPSwbvh .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
 }
