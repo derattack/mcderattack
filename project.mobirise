@@ -115,13 +115,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#8c7568"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#9c877b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#a38f84"
             },
             ".bg-color.transparent .link": {
               "color": "#f3c649",
@@ -134,7 +134,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#f7da64!important"
             }
           },
           "_tags": [
@@ -149,7 +149,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#a38f84",
             "fontSize": "1.05",
             "fontName": {},
             "fontColor": "#f3c649",
@@ -172,7 +172,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://maisonetconception.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MC by Derattack</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">ACCUEIL</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><p>SERVICES</p></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-h\">Marques</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-b\">Assurances</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content6-l\">Service Compris</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#form1-5\">PRIX</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-5\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#contacts2-6\">Nous Trouver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons1-4\">Réseaux Sociaux</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-5\">Nous Ecrire</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">ACCUEIL</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><p>SERVICES</p></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-h\">Marques</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-b\">Assurances</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content6-l\">Service Compris</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#form1-5\">PRIX</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-5\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#contacts2-6\">Nous Trouver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons1-4\">Réseaux Sociaux</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-5\">Nous Ecrire</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
